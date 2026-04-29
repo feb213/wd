@@ -10,3 +10,5 @@ CREATE TABLE students (
     division VARCHAR(10),
     year VARCHAR(10)
 );
+
+sudo /opt/lampp/lampp start
